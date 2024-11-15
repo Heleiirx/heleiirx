@@ -2,7 +2,8 @@
 
 ##### A Front-End Jr. Developer and Software Engineering Student 
 - 💖 I love programming, designing, and learning new things.
-- 🎯 Trying to improve my skills by doing challenges on HackerRank  
+- 🎯 Trying to improve my skills by doing challenges on [HackerRank](https://www.hackerrank.com/profile/itzelvargas2002)
+ 
 
 #### ⚙️ Skills 
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) 
