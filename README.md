@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Itzel 👋
 
-<!--
-**Heleiirx/heleiirx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### A Front-End Jr. Developer and Software Engineering Student 
+- 💖 I love programming, designing, and learning new things.
+- 🎯 Trying to improve my skills by doing challenges on HackerRank  
 
-Here are some ideas to get you started:
+#### ⚙️ Skills 
+![Static Badge](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) 
+![Static Badge](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-1c7ebb?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-ff5225?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-097ece?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-3ebff8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Currently learning
+![Static Badge](https://img.shields.io/badge/Python-ffdf5c?style=for-the-badge&logo=python&logoColor=black)
+
