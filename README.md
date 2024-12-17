@@ -16,5 +16,5 @@
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### 🧠 Currently learning
-![Static Badge](https://img.shields.io/badge/Python-ffdf5c?style=for-the-badge&logo=python&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
